@@ -1,6 +1,6 @@
 # < Hello there! 👋 />
 
-I currently work as a C# & TypeScript (Angular) developer at the Swedish Armed Forces, aka Försvarsmakten.
+I currently work as a C# & JavaScript developer at the Swedish Armed Forces, Försvarsmakten.
 
 Feel free to reach out if there is anything you're wondering or if you see something you like! :)
 
